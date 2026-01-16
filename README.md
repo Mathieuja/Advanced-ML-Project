@@ -27,7 +27,6 @@ The study compares heuristic baselines, linear models, and tree-based regressors
 ## 📂 Repository Structure
 
 ```bash
-├── data/                  # Data collection scripts (Yahoo Finance API)
 ├── notebook/              # Main Jupyter notebook contains all used methods analysis and visualization
 ├── notebook_listwise/     # Jupyter notebook used for analysis and visualization of listNet ranking methodology
 └── requirements           # A folder data to dump yfinance downloaded data
